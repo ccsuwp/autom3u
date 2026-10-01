@@ -2,10 +2,7 @@
 #EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://gitee.com/mrwanghq/ku9/raw/master/go/黑莓电影.png" group-title="电影台+回看",黑莓电影
 http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=8785669936177902664&livemode=1&stbId=4
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gitee.com/mrwanghq/ku9/raw/master/go/CCTV-6.png" group-title="电影台+回看",CCTV6
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000099000000197690/main.m3u8?channel-id=ystenlive&Contentid=1000000000099000000197690&livemode=1&stbId=4
-#EXTINF:-1 tvg-name="湖南电影" tvg-logo="https://gitee.com/mrwanghq/ku9/raw/master/go/湖南电影.png" group-title="电影台+回看",湖南电影
-http://39.134.240.4/PLTV/2/224/3221226140/index.m3u8
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://gitee.com/mrwanghq/ku9/raw/master/go/CHC-动作电影.png" group-title="电影台+回看",CHC动作电影
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000099000000197690/main.m3u8?channel-id=ystenlive&Contentid=1000000000099000000197690&livemode=1&stbId=4#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://gitee.com/mrwanghq/ku9/raw/master/go/CHC-动作电影.png" group-title="电影台+回看",CHC动作电影
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448842/main.m3u8?channel-id=ystenlive&Contentid=1000000000050000000448842&livemode=1&stbId=4
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/mrwanghq/ku9/raw/master/go/CHC-家庭影院.png" group-title="电影台+回看",CHC家庭影院
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448840/main.m3u8?channel-id=ystenlive&Contentid=1000000000050000000448840&livemode=1&stbId=4
