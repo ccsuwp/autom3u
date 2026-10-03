@@ -1,123 +1,71 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/CCTV1.png" group-title="央视高清",CCTV-1高清
+#EXTINF:-1 tvg-id="hdcctv-1" tvg-name="CCTV-1综合高清" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/CCTV1.png" group-title="央视",CCTV-1综合高清
 http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000001000021973/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/CCTV2.png" group-title="央视高清",CCTV-2
-http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000001000012442/1.m3u8?channel-id=ystenlive&Contentid=1000000001000012442&livemode=1
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/CCTV3.png" group-title="央视高清",CCTV-3
-http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000001000011218/1.m3u8?channel-id=ystenlive&Contentid=1000000001000011218&livemode=1
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/CCTV4.png" group-title="央视高清",CCTV-4
+#EXTINF:-1 tvg-id="cctv-4" tvg-name="CCTV-4中文国际高清" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/CCTV4.png" group-title="央视",CCTV-4中文国际高清
 http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000002000031664/1.m3u8?channel-id=ystenlive&Contentid=1000000002000031664&livemode=1
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/CCTV5.png" group-title="央视高清",CCTV-5
-http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000001000004794/1.m3u8?channel-id=ystenlive&Contentid=1000000001000004794&livemode=1
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/CCTV6.png" group-title="央视高清",CCTV-6
-http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000001000016466/1.m3u8?channel-id=ystenlive&Contentid=1000000001000016466&livemode=1
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/CCTV7.png" group-title="央视高清",CCTV-7
-http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000001000017218/1.m3u8?channel-id=ystenlive&Contentid=1000000001000017218&livemode=1
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/CCTV8.png" group-title="央视高清",CCTV-8
+#EXTINF:-1 tvg-id="cctv-8" tvg-name="CCTV-8电视剧高清" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/CCTV8.png" group-title="央视",CCTV-8电视剧高清
 http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000001000003736/1.m3u8?channel-id=ystenlive&Contentid=1000000001000003736&livemode=1
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/CCTV9.png" group-title="央视高清",CCTV-9
-http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000001000028286/1.m3u8?channel-id=ystenlive&Contentid=1000000001000028286&livemode=1
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/CCTV10.png" group-title="央视高清",CCTV-10
-http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000001000026367/1.m3u8?channel-id=ystenlive&Contentid=1000000001000026367&livemode=1
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/CCTV11.png" group-title="央视高清",CCTV-11
-http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000002000019789/1.m3u8?channel-id=ystenlive&Contentid=1000000002000019789&livemode=1
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/CCTV12.png" group-title="央视高清",CCTV-12
-http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000001000001640/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001640&livemode=1
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/CCTV13.png" group-title="央视高清",CCTV-13
-http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000002000021303/1.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/CCTV14.png" group-title="央视高清",CCTV-14
-http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000001000021349/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021349&livemode=1
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/CCTV15.png" group-title="央视高清",CCTV-15
-http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000002000008163/1.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/CCTV16.png" group-title="央视高清",CCTV-16高清8M
-http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000006000233002/1.m3u8?channel-id=ystenlive&Contentid=1000000006000233002&livemode=1
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/CCTV17.png" group-title="央视高清",CCTV-17高清4M
-http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000005000056836/1.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1
-#EXTINF:-1 tvg-name="CCTV5PLUS" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/cctv5plus.png" group-title="央视高清",CCTV5+
-http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000001000020505/1.m3u8?channel-id=ystenlive&Contentid=1000000001000020505&livemode=1
-#EXTINF:-1 tvg-name="HUNANTV" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/HUNANTV.png" group-title="卫视高清",湖南卫视高清
-http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000001000009115/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009115&livemode=1
-#EXTINF:-1 tvg-name="ZJSTV" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/ZJTV.png" group-title="卫视高清",浙江卫视高清
-http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000001000009806/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009806&livemode=1
-#EXTINF:-1 tvg-name="JSTV" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/JSTV.png" group-title="卫视高清",江苏卫视高清
-http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000001000004684/1.m3u8?channel-id=ystenlive&Contentid=1000000001000004684&livemode=1
-#EXTINF:-1 tvg-name="DONGFANG" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/DONGFANG.png" group-title="卫视高清",东方卫视高清
-http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000001000030202/1.m3u8?channel-id=ystenlive&Contentid=1000000001000030202&livemode=1
-#EXTINF:-1 tvg-name="GDTV" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/GDTV.png" group-title="卫视高清",广东卫视高清
-http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000001000028357/1.m3u8?channel-id=ystenlive&Contentid=1000000001000028357&livemode=1
-#EXTINF:-1 tvg-name="SZTV" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/SZTV.png" group-title="卫视高清",深圳卫视高清
-http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000001000011645/1.m3u8?channel-id=ystenlive&Contentid=1000000001000011645&livemode=1
-#EXTINF:-1 tvg-name="TJTV" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/TJTV.png" group-title="卫视高清",天津卫视高清
-http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000001000000831/1.m3u8?channel-id=ystenlive&Contentid=1000000001000000831&livemode=1
-#EXTINF:-1 tvg-name="SDTV" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/SDTV.png" group-title="卫视高清",山东卫视高清
-http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000001000012807/1.m3u8?channel-id=ystenlive&Contentid=1000000001000012807&livemode=1
-#EXTINF:-1 tvg-name="BTV1" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/BTV1.png" group-title="卫视高清",北京卫视高清
+#EXTINF:-1 tvg-id="hdbtv1" tvg-name="北京卫视" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/BTV1.png" group-title="卫视",北京卫视
 http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000001000017156/1.m3u8?channel-id=ystenlive&Contentid=1000000001000017156&livemode=1
-#EXTINF:-1 tvg-name="HUBEI" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/HUBEI.png" group-title="卫视高清",湖北卫视高清
-http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000001000010355/1.m3u8?channel-id=ystenlive&Contentid=1000000001000010355&livemode=1
-#EXTINF:-1 tvg-name="HLJGQ" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/HLJGQ.png" group-title="卫视高清",黑龙江卫视高清
-http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000001000009082/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009082&livemode=1
-#EXTINF:-1 tvg-name="CQTV" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/CCQTV.png" group-title="卫视高清",重庆卫视
-http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000002000018937/1.m3u8?channel-id=ystenlive&Contentid=1000000002000018937&livemode=1
-#EXTINF:-1 tvg-name="LNTV" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/LNTV.png" group-title="卫视高清",辽宁卫视
-http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000002000024033/1.m3u8?channel-id=ystenlive&Contentid=1000000002000024033&livemode=1
-#EXTINF:-1 tvg-name="FJTV" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/FJTV.png" group-title="卫视高清",东南卫视
-http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000002000009263/1.m3u8?channel-id=ystenlive&Contentid=1000000002000009263&livemode=1
-#EXTINF:-1 tvg-name="JXTV" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/JXTV.png" group-title="卫视高清",江西卫视
-http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000001000013731/1.m3u8?channel-id=ystenlive&Contentid=1000000001000013731&livemode=1
-#EXTINF:-1 tvg-name="SCTV" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/SCTV.png" group-title="卫视高清",四川卫视
+#EXTINF:-1 tvg-id="hddongfang1" tvg-name="东方卫视" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/DONGFANG.png" group-title="卫视",东方卫视
+http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000001000030202/1.m3u8?channel-id=ystenlive&Contentid=1000000001000030202&livemode=1
+#EXTINF:-1 tvg-id="hdzjtv1" tvg-name="浙江卫视" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/ZJTV.png" group-title="卫视",浙江卫视
+http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000001000009806/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009806&livemode=1
+#EXTINF:-1 tvg-id="hdjstv1" tvg-name="江苏卫视" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/JSTV.png" group-title="卫视",江苏卫视
+http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000001000004684/1.m3u8?channel-id=ystenlive&Contentid=1000000001000004684&livemode=1
+#EXTINF:-1 tvg-id="hdshandongstv" tvg-name="山东卫视" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/SDTV.png" group-title="卫视",山东卫视
+http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000001000012807/1.m3u8?channel-id=ystenlive&Contentid=1000000001000012807&livemode=1
+#EXTINF:-1 tvg-id="hdgdtv1" tvg-name="广东卫视" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/GDTV.png" group-title="卫视",广东卫视
+http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000001000028357/1.m3u8?channel-id=ystenlive&Contentid=1000000001000028357&livemode=1
+#EXTINF:-1 tvg-id="hdsztv1" tvg-name="深圳卫视" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/SZTV.png" group-title="卫视",深圳卫视
+http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000001000011645/1.m3u8?channel-id=ystenlive&Contentid=1000000001000011645&livemode=1
+#EXTINF:-1 tvg-id="sichuanstv" tvg-name="四川卫视" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/SCTV.png" group-title="卫视",四川卫视
 http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000002000016825/1.m3u8?channel-id=ystenlive&Contentid=1000000002000016825&livemode=1
-#EXTINF:-1 tvg-name="GXTV" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/GUANXI.png" group-title="卫视高清",广西卫视
-http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000002000019837/1.m3u8?channel-id=ystenlive&Contentid=1000000002000019837&livemode=1
-#EXTINF:-1 tvg-name="HEBEI" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/HEBEI.png" group-title="卫视高清",河北卫视
-http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000002000017118/1.m3u8?channel-id=ystenlive&Contentid=1000000002000017118&livemode=1
-#EXTINF:-1 tvg-name="SXTV" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/SXTV.png" group-title="卫视高清",山西卫视
-http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000002000021220/1.m3u8?channel-id=ystenlive&Contentid=1000000002000021220&livemode=1
-#EXTINF:-1 tvg-name="GZTV" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/GUIZOUTV.png" group-title="卫视高清",贵州卫视
-http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000002000003169/1.m3u8?channel-id=ystenlive&Contentid=1000000002000003169&livemode=1
-#EXTINF:-1 tvg-name="QHTV" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/QHTV.png" group-title="卫视高清",青海卫视
-http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000002000013359/1.m3u8?channel-id=ystenlive&Contentid=1000000002000013359&livemode=1
-#EXTINF:-1 tvg-name="HNTV" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/HNTV.png" group-title="卫视高清",河南卫视
+#EXTINF:-1 tvg-id="henanstv" tvg-name="河南卫视" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/HNTV.png" group-title="卫视",河南卫视
 http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/7304224304099543804/1.m3u8?channel-id=ystenlive&Contentid=7304224304099543804&livemode=1
-#EXTINF:-1 tvg-name="AHTV" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/AHTV.png" group-title="卫视高清",安徽卫视
+#EXTINF:-1 tvg-id="hdhubeistv" tvg-name="湖北卫视" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/HUBEI.png" group-title="卫视",湖北卫视
+http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000001000010355/1.m3u8?channel-id=ystenlive&Contentid=1000000001000010355&livemode=1
+#EXTINF:-1 tvg-id="anhuistv" tvg-name="安徽卫视" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/AHTV.png" group-title="卫视",安徽卫视
 http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000001000020780/1.m3u8?channel-id=ystenlive&Contentid=1000000001000020780&livemode=1
-#EXTINF:-1 tvg-name="GSTV" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/GSTV.png" group-title="卫视高清",甘肃卫视
-http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000002000017827/1.m3u8?channel-id=ystenlive&Contentid=1000000002000017827&livemode=1
-#EXTINF:-1 tvg-name="NMGTV" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/NMGTV.png" group-title="卫视高清",内蒙古卫视
-http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000002000014080/1.m3u8?channel-id=ystenlive&Contentid=1000000002000014080&livemode=1
-#EXTINF:-1 tvg-name="NXTV" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/NXTV.png" group-title="卫视高清",宁夏卫视
-http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000002000031451/1.m3u8?channel-id=ystenlive&Contentid=1000000002000031451&livemode=1
-#EXTINF:-1 tvg-name="SXITV" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/SHXITV.png" group-title="卫视高清",陕西卫视
-http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000001000007495/1.m3u8?channel-id=ystenlive&Contentid=1000000001000007495&livemode=1
-#EXTINF:-1 tvg-name="XJTV" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/xj.png" group-title="卫视高清",新疆卫视
-http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000002000029441/1.m3u8?channel-id=ystenlive&Contentid=1000000002000029441&livemode=1
-#EXTINF:-1 tvg-name="JLTV" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/JL.png" group-title="卫视高清",吉林卫视
-http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000002000027730/1.m3u8?channel-id=ystenlive&Contentid=1000000002000027730&livemode=1
-#EXTINF:-1 tvg-name="YNTV" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/yn.png" group-title="卫视高清",云南卫视
+#EXTINF:-1 tvg-id="hdhljtv1" tvg-name="黑龙江卫视" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/HLJGQ.png" group-title="卫视",黑龙江卫视
+http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000001000009082/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009082&livemode=1
+#EXTINF:-1 tvg-id="liaoningstv" tvg-name="辽宁卫视" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/LNTV.png" group-title="卫视",辽宁卫视
+http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000002000024033/1.m3u8?channel-id=ystenlive&Contentid=1000000002000024033&livemode=1
+#EXTINF:-1 tvg-id="chongqingstv" tvg-name="重庆卫视" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/CCQTV.png" group-title="卫视",重庆卫视
+http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000002000018937/1.m3u8?channel-id=ystenlive&Contentid=1000000002000018937&livemode=1
+#EXTINF:-1 tvg-id="jiangxistv" tvg-name="江西卫视" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/JXTV.png" group-title="卫视",江西卫视
+http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000001000013731/1.m3u8?channel-id=ystenlive&Contentid=1000000001000013731&livemode=1
+#EXTINF:-1 tvg-id="hdhunantv1" tvg-name="湖南卫视" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/HUNANTV.png" group-title="卫视",湖南卫视
+http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000001000009115/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009115&livemode=1
+#EXTINF:-1 tvg-id="guizhoustv" tvg-name="贵州卫视" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/GUIZOUTV.png" group-title="卫视",贵州卫视
+http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000002000003169/1.m3u8?channel-id=ystenlive&Contentid=1000000002000003169&livemode=1
+#EXTINF:-1 tvg-id="yntv1" tvg-name="云南卫视" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/yn.png" group-title="卫视",云南卫视
 http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000002000024694/1.m3u8?channel-id=ystenlive&Contentid=1000000002000024694&livemode=1
-#EXTINF:-1 tvg-name="XZTV" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/XZ.png" group-title="卫视高清",西藏卫视
-http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000002000015894/1.m3u8?channel-id=ystenlive&Contentid=1000000002000015894&livemode=1
-#EXTINF:-1 tvg-name="JYKT" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/JYKT.png" group-title="少儿频道",金鹰卡通
-http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000002000016601/1.m3u8?channel-id=ystenlive&Contentid=1000000002000016601&livemode=1
-#EXTINF:-1 tvg-name="KKSE" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/KKSE.png" group-title="少儿频道",卡酷少儿
-http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000002000002413/1.m3u8?channel-id=ystenlive&Contentid=1000000002000002413&livemode=1
-#EXTINF:-1 tvg-name="YMKT" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/YMKT.png" group-title="少儿频道",优漫卡通
-http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000001000010063/1.m3u8?channel-id=ystenlive&Contentid=1000000001000010063&livemode=1
-#EXTINF:-1 tvg-name="CETV" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/CETV.png" group-title="教育频道",中国教育-1
-http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000002000027253/1.m3u8?channel-id=ystenlive&Contentid=1000000002000027253&livemode=1
-#EXTINF:-1 tvg-name="HUNANDUSHI" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/HUNANTV.png" group-title="湖南本地",湖南都市
-http://tvgslb.hn.chinamobile.com:8089/000000001000/HD-8000k-1080P-hunandushi/index.m3u8?channel-id=ystenlive&Contentid=HD-8000k-1080P-hunandushi&livemode=1&AuthInfo=-&IASHttpSessionId=SLB000001
-#EXTINF:-1 tvg-name="HUNANJINGSHI" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/HUNANTV.png" group-title="湖南本地",湖南经视
+#EXTINF:-1 tvg-id="guangxistv" tvg-name="广西卫视" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/GUANXI.png" group-title="卫视",广西卫视
+http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000002000019837/1.m3u8?channel-id=ystenlive&Contentid=1000000002000019837&livemode=1
+#EXTINF:-1 tvg-id="hebeistv" tvg-name="河北卫视" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/HEBEI.png" group-title="卫视",河北卫视
+http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000002000017118/1.m3u8?channel-id=ystenlive&Contentid=1000000002000017118&livemode=1
+#EXTINF:-1 tvg-id="jilin1" tvg-name="吉林卫视" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/JL.png" group-title="卫视",吉林卫视
+http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000002000027730/1.m3u8?channel-id=ystenlive&Contentid=1000000002000027730&livemode=1
+#EXTINF:-1 tvg-id="shanxi1stv" tvg-name="陕西卫视" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/SHXITV.png" group-title="卫视",陕西卫视
+http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000002000007495/1.m3u8?channel-id=ystenlive&Contentid=1000000002000007495&livemode=1
+#EXTINF:-1 tvg-id="shanxistv" tvg-name="山西卫视" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/SXTV.png" group-title="卫视",山西卫视
+http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000002000021220/1.m3u8?channel-id=ystenlive&Contentid=1000000002000021220&livemode=1
+#EXTINF:-1 tvg-id="hdtianjinstv" tvg-name="天津卫视" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/TJTV.png" group-title="卫视",天津卫视
+http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000001000000831/1.m3u8?channel-id=ystenlive&Contentid=1000000001000000831&livemode=1
+#EXTINF:-1 tvg-id="dongnanstv" tvg-name="东南卫视" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/FJTV.png" group-title="卫视",东南卫视
+http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000002000009263/1.m3u8?channel-id=ystenlive&Contentid=1000000002000009263&livemode=1
+#EXTINF:-1 tvg-id="lvyoustv" tvg-name="海南卫视" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/LY.png" group-title="卫视",海南卫视
+http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000002000023773/1.m3u8?channel-id=ystenlive&Contentid=1000000002000023773&livemode=1
+#EXTINF:-1 tvg-id="neimenggustv" tvg-name="内蒙古卫视" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/NMGTV.png" group-title="卫视",内蒙古卫视
+http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000002000014080/1.m3u8?channel-id=ystenlive&Contentid=1000000002000014080&livemode=1
+#EXTINF:-1 tvg-id="gansustv" tvg-name="甘肃卫视" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/GSTV.png" group-title="卫视",甘肃卫视
+http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000002000017827/1.m3u8?channel-id=ystenlive&Contentid=1000000002000017827&livemode=1
+#EXTINF:-1 tvg-id="SD-1500k-576P-hnjingshi" tvg-name="湖南经视高清" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/HUNANTV.png" group-title="湖南本地",湖南经视高清
 http://tvgslb.hn.chinamobile.com:8089/000000001000/HD-8000k-1080P-hunanjingshi/index.m3u8?channel-id=ystenlive&Contentid=HD-8000k-1080P-hunanjingshi&livemode=1&AuthInfo=-&IASHttpSessionId=SLB000001
-#EXTINF:-1 tvg-name="HUNANDIANSHIJU" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/HUNANTV.png" group-title="湖南本地",湖南电视剧
+#EXTINF:-1 tvg-id="SD-1500k-576P-hndianshiju" tvg-name="湖南电视剧频道高清" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/HUNANTV.png" group-title="湖南本地",湖南电视剧频道高清
 http://tvgslb.hn.chinamobile.com:8089/000000001000/HD-8000k-1080P-xiaoxiangdsj/index.m3u8?channel-id=ystenlive&Contentid=HD-8000k-1080P-xiaoxiangdsj&livemode=1&AuthInfo=-&IASHttpSessionId=SLB000001
-#EXTINF:-1 tvg-name="XIAOXIANGDY" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/HUNANTV.png" group-title="湖南本地",潇湘电影
-http://tvgslb.hn.chinamobile.com:8089/000000001000/HD-8000k-1080P-xiaoxiangdy/index.m3u8?channel-id=ystenlive&Contentid=HD-8000k-1080P-xiaoxiangdy&livemode=1&AuthInfo=-&IASHttpSessionId=SLB000001
-#EXTINF:-1 tvg-name="HUNANGG" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/HUNANTV.png" group-title="湖南本地",湖南公共
+#EXTINF:-1 tvg-id="HD-8000k-1080P-hunangg" tvg-name="湖南爱晚频道高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunangg/9c0ewufhivef.png" group-title="湖南本地",湖南爱晚频道高清
 http://tvgslb.hn.chinamobile.com:8089/000000001000/HD-8000k-1080P-hunangg/index.m3u8?channel-id=ystenlive&Contentid=HD-8000k-1080P-hunangg&livemode=1&AuthInfo=-&IASHttpSessionId=SLB000001
-#EXTINF:-1 tvg-name="HUNANJY" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/CETV.png" group-title="湖南本地",湖南教育
-http://tvgslb.hn.chinamobile.com:8089/000000001000/D-8000k-1080P-hunanjy/index.m3u8?channel-id=ystenlive&Contentid=D-8000k-1080P-hunanjy&livemode=1&AuthInfo=-&IASHttpSessionId=SLB000001
-#EXTINF:-1 tvg-name="YYGG" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/CCTV1.png" group-title="湖南本地",益阳公共频道
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000033000000121665/index.m3u8?channel-id=ystenlive&Contentid=00000001000000000033000000121665&livemode=1&AuthInfo=-&IASHttpSessionId=SLB000001
-#EXTINF:-1 tvg-name="YYXW" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/CCTV1.png" group-title="湖南本地",益阳新闻频道
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000033000000121664/index.m3u8?channel-id=ystenlive&Contentid=00000001000000000033000000121664&livemode=1&AuthInfo=-&IASHttpSessionId=SLB000001
+#EXTINF:-1 tvg-id="HD-8000k-1080P-hunandushi" tvg-name="湖南都市频道高清" tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/HD-8000k-1080P-hunandushi/TAIPANHNDS0803.png" group-title="湖南本地",湖南都市频道高清
+http://tvgslb.hn.chinamobile.com:8089/000000001000/HD-8000k-1080P-hunandushi/index.m3u8?channel-id=ystenlive&Contentid=HD-8000k-1080P-hunandushi&livemode=1&AuthInfo=-&IASHttpSessionId=SLB000001
