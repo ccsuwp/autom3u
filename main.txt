@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://gitee.com/mrwanghq/ku9/raw/master/%E6%B9%96%E5%8D%97%E9%83%BD%E5%B8%82%E9%A2%91%E9%81%93.xml"
+#EXTM3U x-tvg-url="http://e.erw.cc/all.xml.gz"
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/CCTV1.png" group-title="央视",CCTV-1
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000099000000197683/main.m3u8?channel-id=ystenlive&Contentid=1000000000099000000197683&livemode=1&stbId=4
@@ -9,29 +9,29 @@ http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000099000000197
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/CCTV8.png" group-title="央视",CCTV-8
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000099000000197692/main.m3u8?channel-id=ystenlive&Contentid=1000000000099000000197692&livemode=1&stbId=4
 
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/BTV1.png" group-title="卫视",北京卫视4K
-http://tvgslb.hn.chinamobile.com:8089/180000001002/32025041016455754529971118212688/main.m3u8?channel-id=ystenlive&Contentid=1016455754529971118212688&livemode=1&stbId=4
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/BTV1.png" group-title="卫视",北京卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047443/main.m3u8?channel-id=ystenlive&Contentid=1000000000008000000047443&livemode=1&stbId=4
 
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/DONGFANG.png" group-title="卫视",东方卫视4K
-http://tvgslb.hn.chinamobile.com:8089/180000001002/32025091110262078079170451541005/main.m3u8?channel-id=ystenlive&Contentid=1110262078079170451541005&livemode=1&stbId=4
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/DONGFANG.png" group-title="卫视",东方卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047445/main.m3u8?channel-id=ystenlive&Contentid=1000000000008000000047445&livemode=1&stbId=4
 
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/ZJTV.png" group-title="卫视",浙江卫视4K
-http://tvgslb.hn.chinamobile.com:8089/180000001002/32025091110262252695540491433081/main.m3u8?channel-id=ystenlive&Contentid=1110262252695540491433081&livemode=1&stbId=4
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/ZJTV.png" group-title="卫视",浙江卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001250/main.m3u8?channel-id=ystenlive&Contentid=1000000000007000000001250&livemode=1&stbId=4
 
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/JSTV.png" group-title="卫视",江苏卫视4K
-http://tvgslb.hn.chinamobile.com:8089/180000001002/32025091110262178928213010539289/main.m3u8?channel-id=ystenlive&Contentid=1110262178928213010539289&livemode=1&stbId=4
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/JSTV.png" group-title="卫视",江苏卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000099000000197694/main.m3u8?channel-id=ystenlive&Contentid=1000000000099000000197694&livemode=1&stbId=4
 
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/SDTV.png" group-title="卫视",山东卫视4K
-http://tvgslb.hn.chinamobile.com:8089/180000001002/32025091110262122088149630612658/main.m3u8?channel-id=ystenlive&Contentid=1110262122088149630612658&livemode=1&stbId=4
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/SDTV.png" group-title="卫视",山东卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047448/main.m3u8?channel-id=ystenlive&Contentid=1000000000008000000047448&livemode=1&stbId=4
 
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/GDTV.png" group-title="卫视",广东卫视4K
-http://tvgslb.hn.chinamobile.com:8089/180000001002/32025061216045554851550640574941/main.m3u8?channel-id=ystenlive&Contentid=1216045554851550640574941&livemode=1&stbId=4
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/GDTV.png" group-title="卫视",广东卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040391/main.m3u8?channel-id=ystenlive&Contentid=1000000000010000000040391&livemode=1&stbId=4
 
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/SZTV.png" group-title="卫视",深圳卫视4K
-http://tvgslb.hn.chinamobile.com:8089/180000001002/32025061216044934209640975946187/main.m3u8?channel-id=ystenlive&Contentid=1216044934209640975946187&livemode=1&stbId=4
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/SZTV.png" group-title="卫视",深圳卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047446/main.m3u8?channel-id=ystenlive&Contentid=1000000000008000000047446&livemode=1&stbId=4
 
-#EXTINF:-1 tvg-name="四川卫视" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/SCTV.png" group-title="卫视",四川卫视4K
-http://tvgslb.hn.chinamobile.com:8089/180000001002/32025091110262063636605981698869/main.m3u8?channel-id=ystenlive&Contentid=1110262063636605981698869&livemode=1&stbId=4
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/SCTV.png" group-title="卫视",四川卫视
+http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000064000000308823/main.m3u8?channel-id=ystenlive&Contentid=1000000000064000000308823&livemode=1&stbId=4
 
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/HNTV.png" group-title="卫视",河南卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000057000000208264/main.m3u8?channel-id=ystenlive&Contentid=1000000000057000000208264&livemode=1&stbId=4
@@ -54,8 +54,8 @@ http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000064000000308
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/JXTV.png" group-title="卫视",江西卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182287/main.m3u8?channel-id=ystenlive&Contentid=0000000020000000000182287&livemode=1&stbId=4
 
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/HUNANTV.png" group-title="卫视",湖南卫视4K
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000064000000308827/main.m3u8?channel-id=ystenlive&Contentid=1000000000064000000308827&livemode=1&stbId=4
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/HUNANTV.png" group-title="卫视",湖南卫视
+http://gslbserv.taipan.hna.bcs.ottcn.com:8089/000000001000/1000000001000009115/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009115&livemode=1
 
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/GUIZOUTV.png" group-title="卫视",贵州卫视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040424/main.m3u8?channel-id=ystenlive&Contentid=1000000000010000000040424&livemode=1&stbId=4
@@ -96,13 +96,13 @@ http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000133
 #EXTINF:-1 tvg-name="湖南都市" tvg-logo="https://gitee.com/mrwanghq/ku9/raw/master/go/湖南都市.png" group-title="湖南本地",湖南都市
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000099000000195952/main.m3u8?channel-id=ystenlive&Contentid=1000000000099000000195952&livemode=1&stbId=4
 
-#EXTINF:-1 tvg-name="湖南爱晚" tvg-logo="https://gitee.com/mrwanghq/ku9/raw/master/go/湖南爱晚.png" group-title="湖南本地",湖南爱晚
+#EXTINF:-1 tvg-name="湖南爱晚频道" tvg-logo="https://gitee.com/mrwanghq/ku9/raw/master/go/湖南爱晚.png" group-title="湖南本地",湖南爱晚
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000099000000197676/main.m3u8?channel-id=ystenlive&Contentid=1000000000099000000197676&livemode=1&stbId=4
 
 #EXTINF:-1 tvg-name="湖南经视" tvg-logo="https://gitee.com/mrwanghq/ku9/raw/master/go/湖南经视.png" group-title="湖南本地",湖南经视
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000099000000194900/main.m3u8?channel-id=ystenlive&Contentid=1000000000099000000194900&livemode=1&stbId=4
 
-#EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="https://gitee.com/mrwanghq/ku9/raw/master/go/湖南电视剧.png" group-title="湖南本地",湖南电视剧
+#EXTINF:-1 tvg-name="湖南电视剧频道" tvg-logo="https://gitee.com/mrwanghq/ku9/raw/master/go/湖南电视剧.png" group-title="湖南本地",湖南电视剧
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000099000000196987/main.m3u8?channel-id=ystenlive&Contentid=1000000000099000000196987&livemode=1&stbId=4
 
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="http://icntvtvlookbackepg.itv.cmvideo.cn:8080/logo/JYKT.png" group-title="少儿",金鹰卡通
